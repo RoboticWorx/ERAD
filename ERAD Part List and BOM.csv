@@ -42,7 +42,7 @@ RES SMD 5.1K OHM 0.1% 1/8W 0805",0, $0.13 , $0.65 ,,
 (*ONLY IF NEEDED) 3,"	
 296-40039-1-ND",DRV5013ADELPGMQ1,MAGNETIC SWITCH LATCH TO92-3,0, $0.82 , $0.82 ,,
 1,1965-ESP32-S3-WROOM-1-N4R2CT-ND,ESP32-S3-WROOM-1-N4R2,RF TXRX MOD BT WIFI PCB TH SMD,0, $3.10 , $3.10 ,,
-,,,,,, $44.47 ,<--TOTAL,
+,,,,,, $42.47 ,<--TOTAL,
 ,,,,,,,,
 ,"ALL OTHER COMPONENTS WERE PURCHASED VIA AMAZON. Remember, it's better to buy too many than too few. I DO NOT RECOMMEND BUYING THE MINIMUM AMOUNT!",,,,,,,
 ,(Amazon purchase links are in the project BOM www.roboticworx.io),,,,,,,
