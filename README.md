@@ -5,7 +5,7 @@ ERAD is an open-source, fully functional wireless BLDC motor driver project base
 
 ![unnamed](https://github.com/user-attachments/assets/427ab5b2-77ec-46bd-aa28-dd7631039cba)
 
-**(Remember, you can download anything you'd like for yourself but you CAN'T sell it. All my work is licensed, thanks!)**
+**_(Remember, you can download anything you'd like for yourself but you CAN'T sell it. All my work is licensed, thanks!)_**
 
 Thanks for reading and happy making!
 
