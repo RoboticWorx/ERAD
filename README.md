@@ -1,5 +1,5 @@
 # ERAD
-ERAD is an open-source, fully functional wireless BLDC motor driver project based around the TMC6200 IC and an ESP32S3! Everything you need to build it can be found on www.roboticworx.io for free!
+ERAD is an open-source, fully functional wireless BLDC motor driver project based around the TMC6200 IC and an ESP32S3! Everything you need to build it can be found on www.roboticworx.io for free! (https://www.roboticworx.io/p/build-a-brushless-dc-motor-driver)
 
 ![unnamed (1)](https://github.com/user-attachments/assets/40b44606-759a-4188-a2de-6bca0ca628a2)
 
